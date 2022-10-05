@@ -1,0 +1,21 @@
+{
+    "producs": [{
+            "id": 1,
+            "name": "Điều hòa",
+            "description": "Điều hòa hai chiều",
+            "details": {
+                "image": "assets/images/food1.jpg",
+                "introl": "Mon an viet nam"
+            }
+        },
+        {
+            "name": "Máy giặt",
+            "description": "Máy giặt lồng ngang",
+            "details": {
+                "image": "assets/images/food2.jpg",
+                "introl": "Mon an trung quoc"
+            },
+            "id": 3
+        }
+    ]
+}
